@@ -5,7 +5,6 @@ import java.util.Date;
 
 import javax.annotation.Resource;
 import javax.security.auth.Subject;
-import javax.servlet.http.HttpSession;
 
 import org.apache.ibatis.annotations.Result;
 import org.apache.poi.ss.usermodel.DateUtil;

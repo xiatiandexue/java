@@ -6,7 +6,7 @@
   <artifactId>Examination</artifactId>
   <packaging>war</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>Examination Maven Webapp</name>
+  <name>Examination</name>
   <url>http://maven.apache.org</url>
   <parent>
 		<groupId>org.springframework.boot</groupId>
